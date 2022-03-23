@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "PHP",
+        "tel": "01234567890",
+        "permisstion": 1
+    },
+    {
+        "id": 2,
+        "name": "Javascipt",
+        "tel": "098765421",
+        "permisstion": 2
+    },
+    {
+        "id": 3,
+        "name": "ReactJs",
+        "tel": "0956564482",
+        "permisstion": 3
+    },
+    {
+        "id": 4,
+        "name": "Rubic",
+        "tel": "064641382",
+        "permisstion": 1
+    }
+]
